@@ -1,0 +1,4 @@
+NaN x 0 = 0
+NaN x 1 = 3
+NaN x 2 = 6
+NaN x 3 = 9
