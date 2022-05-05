@@ -1,0 +1,25 @@
+{
+  "name": "node_tablamultiplicar_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMs18/node_tablamultiplicar_js.git"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMs18/node_tablamultiplicar_js/issues"
+  },
+  "homepage": "https://github.com/CarlosMs18/node_tablamultiplicar_js#readme",
+  "dependencies": {
+    "yargs": "^17.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
